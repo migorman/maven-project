@@ -13,6 +13,6 @@ public class Greeter {
   }
 
   public String greet(final String someone) {
-    return String.format("Hello MOUNIR IGORMAN, %s!", someone);
+    return String.format("Hello MOUNIR IGORMAN + JENKINS, %s!", someone);
   }
 }
